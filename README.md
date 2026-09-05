@@ -1,6 +1,8 @@
-# scPhenomics image analysis
+# scPhenomics image analysis, scPhenomics-pipline
 
 ### Overview 
+General‑purpose single‑cell phenomics pipeline for multi‑channel fluorescence microscopy, forked & generalized from Kangs et al. (Nature Metabolism 2025).
+#### original overview:
 Image analysis workflow for liver lobule quantification for scPhenomics analysis. Code associated with Kang S, et al. Nature Metabolism 2025.
 
 ### Image segmentation and quantification
